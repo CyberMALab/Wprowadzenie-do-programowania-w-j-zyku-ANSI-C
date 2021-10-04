@@ -21,7 +21,7 @@ Projekt podzielony jest nieformalnie na dwie części. Pierwszą z nich stanową
 W przypadku napotkania jakichś nieścisłości, lub wszelkiej maści błędów napisz na mail _jakub.gratkiewicz@gmail.com_. Dzięki reakcji na błędy będzie można łatwiej dokończyć projekt i stworzyć go bardziej przystępnym dla czytelników. 
 
 ## Spis tresci
-1. [„Hello World!" - Procedury wejścia i wyjścia, proste typy zmiennych.]()
+1. [„Hello World!" - Procedury wejścia i wyjścia, proste typy zmiennych.](https://github.com/CyberMALab/Hello-World-czyli-procerudy-wej-cia-i-wyj-cia-proste-typy-zmiennych.git)
 1. [Operatory arytmetyczne]()
 1. [Instrukcje warunkowe i operatory logiczne]()
 1. [Pętle]()
@@ -39,7 +39,7 @@ W przypadku napotkania jakichś nieścisłości, lub wszelkiej maści błędów 
 1. [Dynamiczne struktury danych - listy]()
 
 ***
-[Następna część]()
+[Następna część](https://github.com/CyberMALab/Hello-World-czyli-procerudy-wej-cia-i-wyj-cia-proste-typy-zmiennych.git)
 ***
 &copy; Cyberspace Modelling and Analysis Laboratory
 
