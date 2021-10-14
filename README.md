@@ -22,7 +22,7 @@ W przypadku napotkania jakichś nieścisłości, lub wszelkiej maści błędów 
 
 ## Spis tresci
 1. [„Hello World!" - Procedury wejścia i wyjścia, proste typy zmiennych.](https://github.com/CyberMALab/Hello-World-czyli-procerudy-wej-cia-i-wyj-cia-proste-typy-zmiennych.git)
-1. [Operatory arytmetyczne](https://github.com/CyberMALab/Comming-Soon.git)
+1. [Operatory arytmetyczne](https://github.com/CyberMALab/Operatory-arytmetyczne.git)
 1. [Instrukcje warunkowe i operatory logiczne](https://github.com/CyberMALab/Comming-Soon.git)
 1. [Pętle](https://github.com/CyberMALab/Comming-Soon.git)
 1. [Instrukcja wyboru switch case](https://github.com/CyberMALab/Comming-Soon.git)
