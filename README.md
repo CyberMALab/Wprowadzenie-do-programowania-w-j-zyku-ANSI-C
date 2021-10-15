@@ -18,7 +18,7 @@ Projekt podzielony jest nieformalnie na dwie części. Pierwszą z nich stanową
 
 ## Pomóż nam skończyć to dzieło!
 
-W przypadku napotkania jakichś nieścisłości, lub wszelkiej maści błędów napisz na mail _rafal.kasprzyk@wat.edu.pl_ i/lub _jakub.gratkiewicz@student.wat.edu.pl_. Dzięki reakcji na błędy będzie można łatwiej dokończyć projekt i stworzyć go bardziej przystępnym dla czytelników. 
+W przypadku napotkania jakichś nieścisłości, lub wszelkiej maści błędów napisz na mail _rafal.kasprzyk@wat.edu.pl_ i _jakub.gratkiewicz@student.wat.edu.pl_. Dzięki reakcji na błędy będzie można łatwiej dokończyć projekt i stworzyć go bardziej przystępnym dla czytelników. 
 
 ## Spis tresci
 1. [„Hello World!" - Procedury wejścia i wyjścia, proste typy zmiennych.](https://github.com/CyberMALab/Hello-World-czyli-procerudy-wej-cia-i-wyj-cia-proste-typy-zmiennych.git)
