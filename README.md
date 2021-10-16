@@ -2,7 +2,7 @@
 
 ## Założenia projektu
 
-Skrypt skierowany jest dla studnetów pierwszego roku kierunku informatyki oraz kryptologia i cyberbezpieczeństwo, oraz wszystkich zainteresowanych nauką programowania od podstaw. Skrypt tworzony jest przy współpracy studenta oraz wykładowcy. Taki duet pozwala na osiągnięcie efektu synegii i daje możliwość przekazania wiedzy w najlepiej przyswajalnej formie równocześnie zachowując pełną poprawność metodyczną i merytoryczną przekazywanej wiedzy.
+Skrypt skierowany jest dla studnetów pierwszego roku kierunku informatyki oraz kryptologia i cyberbezpieczeństwo, oraz wszystkich zainteresowanych nauką programowania od podstaw. Skrypt tworzony jest przy współpracy studenta oraz wykładowcy. Taki duet pozwala na osiągnięcie efektu synergii i daje możliwość przekazania wiedzy w najlepiej przyswajalnej formie równocześnie zachowując pełną poprawność metodyczną i merytoryczną przekazywanej wiedzy.
 
 ## Dlaczego warto zacząć przygodę z programowaniem w ANSI C
 
