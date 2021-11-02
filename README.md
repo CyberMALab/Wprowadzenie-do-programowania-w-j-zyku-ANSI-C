@@ -23,7 +23,7 @@ W przypadku napotkania nieścisłości lub błędów napisz na mail _rafal.kaspr
 ## Spis tresci
 1. [„Hello World!" - Procedury wejścia i wyjścia, proste typy zmiennych.](https://github.com/CyberMALab/Hello-World-czyli-procerudy-wej-cia-i-wyj-cia-proste-typy-zmiennych.git)
 1. [Operatory arytmetyczne](https://github.com/CyberMALab/Operatory-arytmetyczne.git)
-1. [Instrukcje warunkowe i operatory logiczne](https://github.com/CyberMALab/Comming-Soon.git)
+1. [Instrukcje warunkowe i operatory logiczne](https://github.com/CyberMALab/Instrukcja-warunkowa.git)
 1. [Pętle](https://github.com/CyberMALab/Comming-Soon.git)
 1. [Instrukcja wyboru switch case](https://github.com/CyberMALab/Comming-Soon.git)
 1. [Więcej o typach zmiennych i nie tylko](https://github.com/CyberMALab/Comming-Soon.git)
