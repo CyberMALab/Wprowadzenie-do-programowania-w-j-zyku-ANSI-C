@@ -12,7 +12,7 @@ Język C jest najlepszym wyborem jeśli chodzi o pierwszy język do nauki. Nie o
 
 [Top Computer Languages](https://statisticstimes.com/tech/top-computer-languages.php)
 
-## Dla studentów wydziału Cybernetyki w Wojskowej Akademi Technicznej
+## Dla studentów Wydziału Cybernetyki w Wojskowej Akademi Technicznej
 
 Skrypt podzielony jest nieformalnie na dwie części. Pierwszą część stanowią rozdziały 1-11, których treść pokrywa się z programem laboratoriów z przedmiotu z pierwszego semestru "Wprowadzenie do Informatyki". Rozdziały 12-16 powiązane są natomiast z przedmiotem "Wprowadzenie do Programowania" z drugiego semestru studiów. Skrypt jako całość stanowi solidne podstawy do rozpoczęcia swojej przygody z programowaniem (a na pewno taka jest intencja jego twórców). 
 
