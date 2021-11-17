@@ -6,7 +6,7 @@ Skrypt skierowany jest dla studnetów pierwszego roku kierunku informatyki oraz 
 
 ## Dlaczego warto zacząć przygodę z programowaniem w ANSI C
 
-Język C jest najlepszym wyborem jeśli chodzi o pierwszy język do nauki. Nie oznacza to jednak, że język ten jest łatwy. Wymaga on trochę więcej wysiłku niż inne języki wysokiego poziomu. Ma on jednak przynajmniej jedną kluczową zaletę... znając C łatwo nauczyć się języków takich jak C++, C#, Python, Java, JavaSript, które są językami "C podobnymi". Wszystkie podane języki znajdują się w czołówce jeśli chodzi o popularności w 2021. 
+Język C jest najlepszym wyborem jeśli chodzi o pierwszy język do nauki. Nie oznacza to jednak, że język ten jest łatwy. Wymaga on trochę więcej wysiłku niż inne języki wysokiego poziomu. Ma on jednak przynajmniej jedną kluczową zaletę... znając C łatwo nauczyć się języków takich jak C++, C#, Python, Java, JavaSript. Wszystkie podane języki znajdują się w czołówce jeśli chodzi o popularności w 2021. 
 
 [Poznaj trendy w programowaniu na 2021 rok](https://bulldogjob.pl/news/1479-poznaj-trendy-w-programowaniu-na-2021-rok)
 
