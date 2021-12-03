@@ -29,7 +29,7 @@ W przypadku napotkania nieścisłości lub błędów napisz na mail _rafal.kaspr
 1. [Więcej o typach zmiennych i nie tylko](https://github.com/CyberMALab/Wiecej-o-typach-zmiennych-i-nie-tylko.git)
 1. [Pierwsze własne funkcje i rekurencja](https://github.com/CyberMALab/Pierwsze-wlasne-funkcje-i-rekurencja.git)
 1. [Tablice jednowymiarowe - statyczne](https://github.com/CyberMALab/Tablice-jednowymiarowe.git)
-1. [Tablice znaków](https://github.com/CyberMALab/Comming-Soon.git)
+1. [Tablice znaków](https://github.com/CyberMALab/Tablice-znakow.git)
 1. [Tablice wielowymiarowe - statyczne](https://github.com/CyberMALab/Comming-Soon.git)
 1. [Zmienne złożone - struktury i unie](https://github.com/CyberMALab/Comming-Soon.git)
 1. [Wprowadzenie do wskaźników](https://github.com/CyberMALab/Comming-Soon.git)
