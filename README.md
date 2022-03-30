@@ -33,7 +33,7 @@ W przypadku napotkania nieścisłości lub błędów napisz na mail _rafal.kaspr
 1. [Tablice wielowymiarowe - statyczne](https://github.com/CyberMALab/Tablice-wielowymiarowe-statyczne.git)
 1. [Zmienne złożone - struktury i unie](https://github.com/CyberMALab/Zmienne-zlozone-struktury-i-unie.git)
 1. [Wprowadzenie do wskaźników](https://github.com/CyberMALab/Wprowadzenie-do-wskaznikow.git)
-1. [Własne funkcje](https://github.com/CyberMALab/Comming-Soon.git)
+1. [Własne funkcje](https://github.com/CyberMALab/Wlasne-funkcje.git)
 1. [Dynamiczna alokacja pamięci](https://github.com/CyberMALab/Comming-Soon.git)
 1. [Obsługa plików oraz strumieni wejścia i wyjścia](https://github.com/CyberMALab/Comming-Soon.git)
 1. [Dynamiczne struktury danych - listy](https://github.com/CyberMALab/Comming-Soon.git)
