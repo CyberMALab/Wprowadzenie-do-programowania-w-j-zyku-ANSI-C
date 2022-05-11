@@ -35,7 +35,7 @@ W przypadku napotkania nieścisłości lub błędów napisz na mail _rafal.kaspr
 1. [Wprowadzenie do wskaźników](https://github.com/CyberMALab/Wprowadzenie-do-wskaznikow.git)
 1. [Własne funkcje](https://github.com/CyberMALab/Wlasne-funkcje.git)
 1. [Dynamiczna alokacja pamięci](https://github.com/CyberMALab/Dynamiczna-alokacja-pamieci.git)
-1. [Obsługa plików oraz strumieni wejścia i wyjścia](https://github.com/CyberMALab/Comming-Soon.git)
+1. [Obsługa plików oraz strumieni wejścia i wyjścia](https://github.com/CyberMALab/Obsluga-plikow-i-strumieni-wejscia-i-wyjscia.git)
 1. [Dynamiczne struktury danych - listy](https://github.com/CyberMALab/Comming-Soon.git)
 
 ***
